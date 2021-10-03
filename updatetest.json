@@ -1,7 +1,11 @@
 {
-  "Version": "37",
-  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest37.zip",
+  "Version": "38",
+  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest38.zip",
   "PatchUpdates": [
+    {
+      "Version": "37",
+      "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest37.zip"
+    },
     {
       "Version": "36",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest36.zip"
