@@ -1,7 +1,11 @@
 {
-  "Version": "8",
-  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest8.zip",
+  "Version": "9",
+  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest9.zip",
   "PatchUpdates": [
+	{
+      "Version": "8",
+      "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest8.zip"
+    },
 	{
       "Version": "7",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest7.zip"
