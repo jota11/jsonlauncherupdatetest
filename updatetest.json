@@ -1,24 +1,28 @@
 {
-  "Version": "10",
-  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest10.zip",
+  "Version": "11",
+  "DownloadLink": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest11.zip",
   "PatchUpdates": [
-	{
+	  {
+      "Version": "10",
+      "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest10.zip"
+    },
+	  {
       "Version": "9",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest9.zip"
     },
-	{
+	  {
       "Version": "8",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest8.zip"
     },
-	{
+	  {
       "Version": "7",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest7.zip"
     },
-	{
+	  {
       "Version": "6",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest6.zip"
     },
-	{
+	  {
       "Version": "5",
       "DownloadURL": "https://raw.githubusercontent.com/jota11/launcherupdatetest/master/zip/updatetest5.zip"
     },
